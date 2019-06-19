@@ -1,4 +1,4 @@
-# Smartwash Technical Documentation
+# SmartWash Technical Documentation
 
 Smartwash Technical Documentation in PDF format by Adrian Tran, Richard Heng, and Damian Turner.
 
